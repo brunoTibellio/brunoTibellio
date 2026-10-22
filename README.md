@@ -105,13 +105,14 @@ Projeto colaborativo criado com colegas da faculdade para reunir informações d
 
 ## 🤝 Vamos nos conectar?
 
+Estou aberto a trocar conhecimentos, colaborar em projetos e aprender com outras pessoas da área de tecnologia.
+
 <p align="center">
   <a href="https://www.linkedin.com/in/bruno-tibellio-147a80231/">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-Estou aberto a trocar conhecimentos, colaborar em projetos e aprender com outras pessoas da área de tecnologia.
 
 <p align="center">
   <a href="https://github.com/brunoTibellio">
