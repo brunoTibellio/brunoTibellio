@@ -114,12 +114,6 @@ Estou aberto a trocar conhecimentos, colaborar em projetos e aprender com outras
 </p>
 
 
-<p align="center">
-  <a href="https://github.com/brunoTibellio">
-    <img src="https://img.shields.io/badge/GitHub-Bruno%20Tibellio-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
 <div align="center">
 
 **Cada projeto é uma oportunidade de aprender algo novo.** 🚀
