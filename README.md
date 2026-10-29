@@ -13,7 +13,7 @@ Estudante de Engenharia de Software | Formado em Análise e Desenvolvimento de S
   <img src="https://img.shields.io/badge/Aprendizado%20Contínuo-7c3aed?style=for-the-badge&logo=bookstack&logoColor=white" />
 </p>
 
-[📂 Meus repositórios](https://github.com/brunoTibellio?tab=repositories) • [🌐 Meu GitHub](https://github.com/brunoTibellio)
+[📂 Meus repositórios](https://github.com/brunoTibellio?tab=repositories)
 
 </div>
 
