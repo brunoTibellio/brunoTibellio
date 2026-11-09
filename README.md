@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 👨‍💻 Bruno Tibellio
@@ -77,6 +76,16 @@ Projeto colaborativo criado com colegas da faculdade para reunir informações d
 **O que venho praticando:** Markdown, organização de repositórios, colaboração e apresentação de informações.
 
 🔗 [Explorar meus repositórios](https://github.com/brunoTibellio?tab=repositories)
+
+### 🗄️ ERP — Rota dos Temperos
+
+Projeto acadêmico em grupo voltado à modelagem de um banco de dados relacional para organizar os processos de uma empresa do ramo de temperos e especiarias.
+
+**O que foi desenvolvido:** estrutura de banco de dados em MySQL com 20 tabelas, relacionamentos, registros de vendas e compras, movimentações de estoque, contas a pagar e receber, além de consultas gerenciais e testes de integridade.
+
+**O que venho praticando:** modelagem de dados, SQL, normalização, chaves primárias e estrangeiras e organização de informações para apoiar processos de negócio.
+
+🔗 [Acessar o repositório do projeto](https://github.com/Matsszs/ERP-Rota-dos-Temperos)
 
 ---
 
